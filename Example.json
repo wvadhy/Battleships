@@ -1,0 +1,22 @@
+{
+  "fiveShip" : {
+    "origin": {"x": 1, "y":  "e"},
+    "destination": {"x": 5, "y":  "e"}
+  },
+  "fourShip" : {
+    "origin": {"x": 5, "y":  "a"},
+    "destination": {"x": 5, "y":  "d"}
+  },
+  "threeShip" : {
+    "origin": {"x": 1, "y":  "a"},
+    "destination": {"x": 3, "y":  "a"}
+  },
+  "twoShip" : {
+    "origin": {"x": 8, "y":  "c"},
+    "destination": {"x": 8, "y":  "d"}
+  },
+  "twoShipTwo" : {
+    "origin": {"x": 1, "y":  "i"},
+    "destination": {"x": 2, "y":  "i"}
+  }
+}
