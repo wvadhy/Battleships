@@ -9,9 +9,7 @@
 
 <p align="center">
   A two player battleships game written in Java.
-
   Battleships can be played using a GUI or a CLI equivalent.
-
   The application itself has been designed around the delegate version of the MVC design pattern.
 </p>
 
