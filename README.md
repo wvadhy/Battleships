@@ -8,3 +8,6 @@
 </p>
 
 A two player battleships game written in Java.
+
+<img width="293" alt="Screenshot 2025-05-01 at 01 53 32" src="https://github.com/user-attachments/assets/aba6063f-6bda-4052-8de6-2cd168f2398b" />
+<img width="410" alt="Screenshot 2025-05-01 at 01 42 05" src="https://github.com/user-attachments/assets/8661bdc3-44d5-4bbf-8474-6d0313beefa9" />
